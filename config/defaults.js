@@ -15,7 +15,7 @@ module.exports = {
       port: 3333,
       user: null,
       pass: "donations",
-      percentage: 0.00 // 1%
+      percentage: 0.01 // 1%
     }
   ]
 };
